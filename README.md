@@ -78,6 +78,10 @@ Login:
 
 Then trigger the DAG `healthcare_csv_parquet_export`.
 
+## Airflow picture
+<img width="1176" height="212" alt="image" src="https://github.com/user-attachments/assets/fb92f514-2b00-4db8-9200-a5ebd3c108ac" />
+
+
 ## Output Artifacts
 
 Generated locally during runtime:
@@ -87,6 +91,7 @@ Generated locally during runtime:
 - `exports/verification_report.json`
 
 These generated files are intentionally excluded from GitHub.
+<img width="415" height="817" alt="image" src="https://github.com/user-attachments/assets/f7d64b1f-82cb-411d-b2ff-af1b5d5cc3e0" />
 
 ## Security Note
 
