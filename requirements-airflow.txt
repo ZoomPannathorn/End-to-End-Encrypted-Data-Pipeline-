@@ -1,0 +1,2 @@
+pyarrow==23.0.1
+cryptography==46.0.2

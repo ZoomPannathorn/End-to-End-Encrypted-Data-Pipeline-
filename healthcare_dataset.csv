@@ -1,0 +1,7 @@
+Name,Age,Gender,Blood Type,Medical Condition,Date of Admission,Doctor,Hospital,Insurance Provider,Billing Amount,Room Number,Admission Type,Discharge Date,Medication,Test Results
+John Carter,45,Male,A+,Diabetes,2026-03-01,Dr. Smith,City General,Aetna,1250.75,101,Emergency,2026-03-05,Metformin,Normal
+Maria Lopez,32,Female,O-,Asthma,2026-03-03,Dr. Adams,Central Clinic,Cigna,980.40,203,Routine,2026-03-04,Albuterol,Stable
+David Chen,61,Male,B+,Hypertension,2026-03-06,Dr. Patel,Metro Hospital,UnitedHealth,2140.20,305,Urgent,2026-03-10,Lisinopril,Improving
+Nina Park,28,Female,AB+,Migraine,2026-03-08,Dr. Green,North Medical,Blue Cross,430.00,118,Outpatient,2026-03-08,Sumatriptan,Normal
+Omar Hassan,54,Male,O+,Arthritis,2026-03-10,Dr. Lee,Regional Care,Kaiser,1675.90,222,Routine,2026-03-13,Ibuprofen,Stable
+
